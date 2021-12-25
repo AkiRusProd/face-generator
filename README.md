@@ -5,3 +5,5 @@
 `train_model.py` - GAN model that trains to generate facial images
 >
 `create_gifs.py` - create latent space interpolation and convert it to gifs
+
+To create gifs you need to run the create_gifs.py script. Model is already trained.
