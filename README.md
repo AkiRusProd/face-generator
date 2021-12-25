@@ -1,1 +1,7 @@
-# face-generator
+# Face generator
+## Tensorflow GAN model implementation that generate people faces
+![Alt Text](https://github.com/AkiRusProd/face-generator/blob/master/generated%20gifs/faces.gif)
+### Scripts
+`train_model.py` - GAN model that trains to generate facial images
+>
+`create_gifs.py` - create latent space interpolation and convert it to gifs
