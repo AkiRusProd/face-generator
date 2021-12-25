@@ -12,8 +12,8 @@ channels = 3
 
 image_shape=(image_size,image_size,channels)
 
-x_num= 5
-y_num= 5
+x_num = 5
+y_num = 5
 margin = 15
 
 
