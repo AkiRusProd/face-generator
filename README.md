@@ -6,4 +6,7 @@
 >
 `create_gifs.py` - create latent space interpolation and convert it to gifs
 
+
+This model was trained on a  [UTKFace](https://susanqq.github.io/UTKFace/) dataset.
+>
 To create gifs you need to run the create_gifs.py script. Model is already trained.
